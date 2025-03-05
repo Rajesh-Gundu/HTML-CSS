@@ -1,0 +1,71 @@
+* {
+    font-family:sans-serif;
+}
+
+.logo {
+    display: inline;
+    padding-left: 150px;
+}
+
+.nav_content {
+    display: inline;
+}
+
+.nav_items{
+    display: inline;
+    list-style: none;
+    padding-left: 250px;
+    text-align: center;
+    vertical-align:top;
+}
+
+ul li {
+    display: inline;
+    padding-left: 60px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+img{
+    object-fit: cover;
+}
+
+.charges {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.subText {
+    text-align: center;
+    color:rgb(104, 110, 114)
+}
+
+.card {
+    display: inline;
+    width: 30%;
+}
+
+.para-text {
+    color:rgb(52, 49, 49);
+    line-height: 28px;
+    text-align: center;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.banner_heading {
+    text-align: center;
+    color:rgb(51, 47, 47);
+    line-height: 35px;
+    font-weight:550;
+    font-size:28px;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-between;
+}
+
+.price {
+    padding-left: 70px;
+}
